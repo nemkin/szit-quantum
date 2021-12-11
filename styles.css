@@ -1,13 +1,8 @@
 :root {
-  --violet: #190933;
-  --burgundy: #a02036;
-  --yonder: #9aa3c1;
-  --snow: #f7f2f5;
-
-  --dark: var(--violet);
-  --accent: var(--burgundy);
-  --semi: var(--yonder);
-  --light: var(--snow);
+  --dark: #190933;
+  --accent: #a02036;
+  --semi: #DBCBF6;
+  --light: #f7f2f5;
 }
 
 html {
