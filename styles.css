@@ -1,0 +1,73 @@
+:root {
+  --violet: #190933;
+  --burgundy: #a02036;
+  --yonder: #9aa3c1;
+  --snow: #f7f2f5;
+
+  --dark: var(--violet);
+  --accent: var(--burgundy);
+  --semi: var(--yonder);
+  --light: var(--snow);
+}
+
+html {
+  font-family: "Arial";
+  font-size: 24px;
+  margin: 2em;
+  line-height: 1.8;
+  overflow-wrap: break-word;
+  color: var(--dark);
+  background-color: var(--light);
+}
+
+header {
+  color: var(--accent);
+}
+
+nav {
+  margin: 0;
+  padding: 0;
+  background-color: var(--semi);
+}
+
+nav ul {
+  display: flex;
+  list-style-type: none;
+  gap: 1em;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  max-width: 40em;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* unvisited link */
+a:link {
+  color: var(--dark);
+}
+
+/* visited link */
+a:visited {
+  color: var(--dark);
+}
+
+/* mouse over link */
+a:hover {
+  color: var(--accent);
+}
+
+/* selected link */
+a:active {
+  color: var(--accent);
+}
