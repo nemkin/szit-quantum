@@ -5,7 +5,6 @@ description: Kvantuminformatikai kutatócsoport a SZIT-en.
 # If you want to force HTTPS, specify the domain without the http at the start, e.g. example.com.
 domain: szitquantum.nemkindev.com
 url: "http://szitquantum.nemkindev.com"
-baseurl: "/quantum"
 
 github_username: nemkin
 
