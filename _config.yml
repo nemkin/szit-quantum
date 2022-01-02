@@ -1,15 +1,21 @@
 title: SZIT Quantum
 email: nemkin@cs.bme.hu
 description: Kvantuminformatikai kutatócsoport a SZIT-en.
+lang: hu-HU
 
 # If you want to force HTTPS, specify the domain without the http at the start, e.g. example.com.
+
 domain: szitquantum.nemkindev.com
-url: "http://szitquantum.nemkindev.com"
+url: "https://szitquantum.nemkindev.com"
+
+# domain: cs.bme.hu
+# url: "https://cs.bme.hu"
+# baseurl: "/~nemkin/quantum"
 
 github_username: nemkin
 
 # Build settings
-remote_theme: pmarsceill/just-the-docs
+remote_theme: nemkin/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
