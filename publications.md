@@ -11,7 +11,7 @@ permalink: publikaciok
 
 Szerző: [Zalavári Márton](./kapcsolat#zalavári-márton)\
 Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)\
-Link: [https://tdk.bme.hu/VIK/modell1/Kvadratikus-optimalizalas-kvantum-alapu](https://tdk.bme.hu/VIK/modell1/Kvadratikus-optimalizalas-kvantum-alapu)
+Link: [https://tdk.bme.hu/VIK/modell1/Kvadratikus-optimalizalas-kvantum-alapu](https://tdk.bme.hu/VIK/modell1/Kvadratikus-optimalizalas-kvantum-alapu)\
 Dátum: 2021. november 16.
 
 A kvadratikus programozás a lineáris programozásnál egy általánosabb technika, hiszen megengedi négyzetes tagok jelenlétét a célfüggvényben és a korlátokban is. Ezzel az alkalmazások körét jóval kibővíti, ugyanakkor az általános feladat megoldása sokkal nehezebbé válik.
@@ -32,7 +32,7 @@ A munka jelentős részét tette ki számos tapasztalat gyűjtése a D-Wave-es p
 
 Szerző: [Nemkin Viktória](./kapcsolat#nemkin-viktoria)\
 Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)\
-Link: [https://tdk.bme.hu/VIK/modell1/Kvantumsetak-szimulacioja-klasszikus](https://tdk.bme.hu/VIK/modell1/Kvantumsetak-szimulacioja-klasszikus)
+Link: [https://tdk.bme.hu/VIK/modell1/Kvantumsetak-szimulacioja-klasszikus](https://tdk.bme.hu/VIK/modell1/Kvantumsetak-szimulacioja-klasszikus)\
 Dátum: 2021. november 16.
 
 Az utóbbi években egyre nagyobb figyelem összpontosul a kvantuminformatikára. Olyan globális vállalatok, mint az IBM, a Google, a Microsoft és az Amazon jelentős összegeket fektetnek kutatásba, hardver- és szoftverfejlesztésekbe ezen a területen, míg az Európai Unió és Magyarország számos olyan programot indított, melyek a kvantuminformatikai kutatások fellendítését célozzák meg.
