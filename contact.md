@@ -7,7 +7,7 @@ permalink: kapcsolat
 
 # Kapcsolat
 
-## Friedl Katalin 
+## Dr. Friedl Katalin 
 
 egyetemi docens\
 [IB137/a](http://www.szit.bme.hu/rolunk/kapcsolat.html)\
