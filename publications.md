@@ -10,4 +10,4 @@ permalink: publikaciok
 ## Kvadratikus optimalizálás kvantum alapú számítógéppel
 
 Szerző: [Zalavári Márton](./kapcsolat#zalavári-márton)\
-Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr.-friedl-katalin)
+Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)
