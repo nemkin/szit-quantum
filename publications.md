@@ -9,10 +9,11 @@ permalink: publikaciok
 
 ## Kvadratikus optimalizálás kvantum alapú számítógéppel
 
-Szerző: [Zalavári Márton](./kapcsolat#zalavári-márton)\
-Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)\
-Link: [https://tdk.bme.hu/VIK/modell1/Kvadratikus-optimalizalas-kvantum-alapu](https://tdk.bme.hu/VIK/modell1/Kvadratikus-optimalizalas-kvantum-alapu)\
-Dátum: 2021. november 16.
+| Szerző | [Zalavári Márton](./kapcsolat#zalavári-márton) |
+|:-|:-|
+| Konzulens | [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin) |
+| Link | [https://tdk.bme.hu/VIK/modell1/Kvadratikus-optimalizalas-kvantum-alapu](https://tdk.bme.hu/VIK/modell1/Kvadratikus-optimalizalas-kvantum-alapu) |
+| Dátum | 2021. november 16. |
 
 A kvadratikus programozás a lineáris programozásnál egy általánosabb technika, hiszen megengedi négyzetes tagok jelenlétét a célfüggvényben és a korlátokban is. Ezzel az alkalmazások körét jóval kibővíti, ugyanakkor az általános feladat megoldása sokkal nehezebbé válik.
 
