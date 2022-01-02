@@ -4,3 +4,28 @@ title: Kapcsolat
 nav_order: 6
 permalink: kapcsolat
 ---
+
+# Kapcsolat
+
+## Friedl Katalin 
+
+egyetemi docens\
+IB137/a\
+[friedl(at)cs.bme.hu](mailto:friedl@cs.bme.hu)\
+[cs.bme.hu/~friedl](https://cs.bme.hu/~friedl)
+## Kabódi László
+
+egyetemi tanársegéd\
+IB137/a\
+[kabodil(at)gmail.com](mailto:kabodil@gmail.com)
+
+## Zalavári Márton
+
+MSc hallgató\
+[zalavarm(at)gmail.com](mailto:zalavarm@gmail.com)
+
+## Nemkin Viktória
+
+MSc hallgató\
+[nemkin(at)cs.bme.hu](mailto:nemkin@cs.bme.hu)\
+[cs.bme.hu/~nemkin](https://cs.bme.hu/~nemkin)
