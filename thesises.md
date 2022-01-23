@@ -41,10 +41,34 @@ Link: [Kvantuminformatika és gépi tanulás](https://diplomaterv.vik.bme.hu/hu/
 Dátum: 2018. december 06.\
 Nyelv: magyar
 
+## Gépi tanulás és kvantuminformatika
+
+Szerző: Szabó Dániel\
+Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)\
+Link: [Gépi tanulás és kvantuminformatika](http://tdk.bme.hu/VIK/Szimu1/Gepi-tanulas-es-kvantuminformatika) (TDK)\
+Dátum: 2018. november 14.\
+Nyelv: magyar
+
+## Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe
+
+Szerző: Szabó Dániel\
+Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)\
+Link: [Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe](http://tdk.bme.hu/VIK/Szimu/Grafelmeleti-algoritmusok-beagyazasa-DWave) (TDK)\
+Dátum: 2017. november 16.\
+Nyelv: magyar
+
 ## Kvantumalgoritmusok véletlen bolyongással
 
 Szerző: [Kabódi László](./kapcsolat#kabódi-lászló)\
 Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)\
 Link: [Kvantumalgoritmusok véletlen bolyongással](https://diplomaterv.vik.bme.hu/hu/Theses/Kvantumalgoritmusok-veletlen-bolyongassal) (Diplomaterv)\
 Dátum: 2014. december 29.\
+Nyelv: magyar
+
+## Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata
+
+Szerző: [Kabódi László](./kapcsolat#kabódi-lászló)\
+Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)\
+Link: [Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata](http://tdk.bme.hu/VIK/Szimulacio/Kvantumaramkorszimulacios-rendszer) (TDK)\
+Dátum: 2014. november 11.\
 Nyelv: magyar
