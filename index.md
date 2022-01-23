@@ -5,6 +5,9 @@ nav_order: 1
 permalink: /
 ---
 
+SZIT Quantum
+{: .fs-8}
+
 Üdvözlünk a SZIT kvantumalgoritmusokkal foglalkozó csoportjának a honlapján!
 {: .fs-5 .fw-300 }
 
