@@ -30,3 +30,9 @@ Link: [Quantum Computing](http://gilyen.hu/teaching/QC_2021.html) (ELTE)
 Link: [Mika Hirvensalo: Quantum Computing](https://link.springer.com/book/10.1007/978-3-662-09636-9)
 
 ![Mika Hirvensalo: Quantum Computing](https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-662-09636-9)
+
+### Imre Sándor, Balázs Ferenc: Quantum Computing and Communications: An Engineering Approach
+
+Link: [Imre Sándor, Balázs Ferenc: Quantum Computing and Communications: An Engineering Approach](https://www.wiley.com/en-us/Quantum+Computing+and+Communications%3A+An+Engineering+Approach-p-9780470869024)
+
+![Imre Sándor, Balázs Ferenc: Quantum Computing and Communications: An Engineering Approach](https://media.wiley.com/product_data/coverImage300/2X/04708690/047086902X.jpg)
