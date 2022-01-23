@@ -41,7 +41,8 @@ Szerzők: Imre Sándor, Balázs Ferenc\
 Nyelv: angol\
 [Link](https://www.wiley.com/en-us/Quantum+Computing+and+Communications%3A+An+Engineering+Approach-p-9780470869024)
 
+<div height="300px">
 <img
   src="https://media.wiley.com/product_data/coverImage300/2X/04708690/047086902X.jpg"
-  alt="Imre Sándor, Balázs Ferenc: Quantum Computing and Communications: An Engineering Approach"
-  height="300"/>
+  alt="Imre Sándor, Balázs Ferenc: Quantum Computing and Communications: An Engineering Approach"/>
+</div>
