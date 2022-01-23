@@ -15,8 +15,6 @@ Link: [Kvadratikus optimalizálás kvantum alapú számítógéppel](https://tdk
 Dátum: 2021. november 16.\
 Nyelv: magyar
 
-TODO
-
 ## Kvantumséták szimulációja klasszikus számítógépen
 
 Szerző: [Nemkin Viktória](./kapcsolat#nemkin-viktoria)\
