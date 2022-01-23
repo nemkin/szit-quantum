@@ -18,9 +18,6 @@ permalink: /
 
 ## Hallgatóknak
 
-Szeretettel várunk minden BSc és MSc képzésben részt vevő hallgatót,
-akár a Műegyetemről, akár bármely más felsőoktatási intézményből
-kvantumalgoritmusokkal kapcsolatos  szakdolgozat, diplomaterv vagy
-TDK dolgozat készítésére.
-
-[Témakiírások](./temak){: .btn .fs-5 .mb-4 .mb-md-0 }
+Szeretettel várunk minden BSc és MSc képzésben részt vevő hallgatót, akár a Műegyetemről,
+akár bármely más felsőoktatási intézményből kvantumalgoritmusokkal kapcsolatos szakdolgozat,
+diplomaterv vagy TDK dolgozat készítésére. Érdemes megnézni az aktuális [témakiírásainkat](./temak).
