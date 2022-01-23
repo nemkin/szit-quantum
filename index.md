@@ -13,7 +13,7 @@ Kedves Látogató!
 az eddigi publikációinkat, továbbá jelenlegi aktív kutatási témáinkat.
 
 Szeretettel várunk minden BSc, MSc és PhD képzésben részt vevő hallgatót, akár a Műegyetemről,
-akár máshonnan szakdolgozat, diplomaterv és TDK dolgozat készítésére.
+akár bármely más felsőoktatási intézményből szakdolgozat, diplomaterv és TDK dolgozat készítésére.
 
 [Első lépések](./irodalom){: .btn .btn-primary}
 [Témakiírások](./temak){: .btn}
