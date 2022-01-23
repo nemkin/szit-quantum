@@ -15,24 +15,28 @@ Ezen az oldalon azokat az információforrásokat gyűjtöttük, melyek segíts�
   
 Előadók: [Dr. Imre Sándor](http://www.mcl.hu/~imre/), [Dr. Bacsárdi László](http://www.hit.bme.hu/~bacsardi/)\
 Nyelv: magyar\
-Link: [Kvantum-informatika és kommunikáció](https://portal.vik.bme.hu/kepzes/targyak/VIHIMA14/) (BME)
+[Link](https://portal.vik.bme.hu/kepzes/targyak/VIHIMA14/)
 
 ### Quantum Computing
 
 Előadó: [Gilyén András](http://gilyen.hu/index.html)\
 Nyelv: angol\
-Link: [Quantum Computing](http://gilyen.hu/teaching/QC_2021.html) (ELTE)
+[Link](http://gilyen.hu/teaching/QC_2021.html)
 
 ## Könyvek
 
-### Mika Hirvensalo: Quantum Computing
+### Quantum Computing
 
-Link: [Mika Hirvensalo: Quantum Computing](https://link.springer.com/book/10.1007/978-3-662-09636-9)
+Szerző: Mika Hirvensalo\
+Nyelv: angol\
+[Link](https://link.springer.com/book/10.1007/978-3-662-09636-9)
 
 ![Mika Hirvensalo: Quantum Computing](https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-662-09636-9)
 
-### Imre Sándor, Balázs Ferenc: Quantum Computing and Communications: An Engineering Approach
+### Quantum Computing and Communications: An Engineering Approach
 
-Link: [Imre Sándor, Balázs Ferenc: Quantum Computing and Communications: An Engineering Approach](https://www.wiley.com/en-us/Quantum+Computing+and+Communications%3A+An+Engineering+Approach-p-9780470869024)
+Szerzők: Imre Sándor, Balázs Ferenc\
+Nyelv: angol\
+[Link](https://www.wiley.com/en-us/Quantum+Computing+and+Communications%3A+An+Engineering+Approach-p-9780470869024)
 
 ![Imre Sándor, Balázs Ferenc: Quantum Computing and Communications: An Engineering Approach](https://media.wiley.com/product_data/coverImage300/2X/04708690/047086902X.jpg)
