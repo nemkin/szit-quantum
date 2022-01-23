@@ -16,7 +16,7 @@ permalink: /
 
 ---
 
-# Hallgatóknak
+## Hallgatóknak
 
 Szeretettel várunk minden BSc, MSc és PhD képzésben részt vevő hallgatót,
 akár a Műegyetemről, akár bármely más felsőoktatási intézményből szakdolgozat,
