@@ -9,11 +9,13 @@ permalink: dolgozatok
 
 ## Kvadratikus optimalizálás kvantum alapú számítógéppel
 
-Szerző: [Zalavári Márton](./kapcsolat#zalavári-márton)\
-Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)\
-Típus: TDK\
-Dátum: 2021. november 16.\
-Nyelv: magyar\
+| Szerző | [Zalavári Márton](./kapcsolat#zalavári-márton) |
+| :- | :- |
+| Konzulens | [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin) |
+| Típus | TDK |
+| Dátum | 2021. november 16. |
+| Nyelv | magyar |
+
 [Link](https://tdk.bme.hu/VIK/modell1/Kvadratikus-optimalizalas-kvantum-alapu)
 
 ## Kvantumséták szimulációja klasszikus számítógépen
