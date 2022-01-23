@@ -18,5 +18,6 @@ permalink: /
 
 # Hallgatóknak
 
-Szeretettel várunk minden BSc, MSc és PhD képzésben részt vevő hallgatót, akár a Műegyetemről,
-akár bármely más felsőoktatási intézményből szakdolgozat, diplomaterv és TDK dolgozat készítésére.
+Szeretettel várunk minden BSc, MSc és PhD képzésben részt vevő hallgatót,
+akár a Műegyetemről, akár bármely más felsőoktatási intézményből szakdolgozat,
+diplomaterv és TDK dolgozat készítésére.
