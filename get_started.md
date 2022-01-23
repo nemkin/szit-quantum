@@ -13,7 +13,7 @@ Ezen az oldalon azokat az információforrásokat gyűjtöttük, melyek segíts�
 
 ### [Kvantum-informatika és kommunikáció](https://portal.vik.bme.hu/kepzes/targyak/VIHIMA14/) (BME)
 
-Előadók: [Dr. Imre Sándor](http://www.mcl.hu/~imre/), [Dr. Bacsárdi László](http://www.hit.bme.hu/~bacsardi/)\
+Előadók: [Dr. Imre Sándor](http://www.mcl.hu/~imre/), [Dr. Bacsárdi László](http://www.hit.bme.hu/~bacsardi/)
 
 Napjaink számítástechnikai eszközei teljesítőképességük elvi határához éreztek, mivel az áramköri elemek a jelenlegi technológiával tovább nem csökkenthetők lényegesen. Ugyanakkor egyre több informatikai és távközlési feladat vár megoldásra, melyeket a jelenlegi számítástechnikai kapacitásokkal reménytelen megoldani, csupán szuboptimális megoldások alkalmazhatók. E kettős problémakörre kínál megoldást a kvantummechanikai alapokra épülő ún. kvantum informatika és kommunikáció, mely egyfelől atomi méretekre zsugorítja az áramköri elemeket, másfelől nagyfokú párhuzamosíthatóságot tesz lehetővé, ezáltal lényegesen redukálva a számítási időt, harmadrészt pedig a klasszikus világban szokatlan megoldási lehetőségeket is kínál (pl. teleportálás). A tantárgy célja, hogy megismertesse a hallgatóságot a kvantum informatika fogalomrendszerével, információ elméleti vonatkozásaival és alkalmazási példákon keresztül informatikai és távközlési környezetben való alkalmazhatóságával. A tárgy röviden ismerteti a gyakorlati megvalósítás alapjait is.
 
