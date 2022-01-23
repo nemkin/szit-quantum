@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Kvantumalgoritmusok kutatócsoport
+# SZIT Quantum
 {: .fs-6 }
 
 Üdvözlünk a SZIT kvantumalgoritmusokkal foglalkozó csoportjának a honlapján!
