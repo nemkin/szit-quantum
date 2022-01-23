@@ -5,7 +5,7 @@ nav_order: 4
 permalink: publikaciok
 ---
 
-# Publikációk
+# Publikációk, dolgozatok
 
 ## Kvadratikus optimalizálás kvantum alapú számítógéppel
 
