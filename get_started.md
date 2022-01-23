@@ -31,10 +31,7 @@ Szerző: Mika Hirvensalo\
 Nyelv: angol\
 [Link](https://link.springer.com/book/10.1007/978-3-662-09636-9)
 
-<img
-  src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-662-09636-9"
-  alt="Mika Hirvensalo: Quantum Computing"
-  height="300"/>
+![Mika Hirvensalo: Quantum Computing](https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-662-09636-9) {: .float-right }
 
 ### Quantum Computing and Communications: An Engineering Approach
 
