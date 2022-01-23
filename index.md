@@ -5,15 +5,16 @@ nav_order: 1
 permalink: /
 ---
 
-# Ezmi
+# Kvantumalgoritmusok kutatócsoport a SZIT-en
 
-Ezmiezmi.
+Kedves Látogató!
 
-[Cuccmucc](#cuccmucc)
+Üdvözlünk a SZIT kvantumalgoritmusokkal foglalkozó csoportjának a honlapján. Itt megtekintheti
+az eddigi publikációinkat, továbbá jelenlegi aktív kutatási témáinkat.
 
-# Focus on writing good documentation
+Szeretettel várunk BSc, MSc és PhD képzésben részt vevő hallgatókat, akár a Műegyetemről,
+akár máshonnan szakdolgozat, diplomaterv és TDK dolgozat készítésére.
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-
-[Get started now](#getting-started){: .btn .btn-primary}
-[View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn}
+[Első lépések](./irodalom){: .btn .btn-primary}
+[Témakiírások](./temak){: .btn}
+[Kapcsolat](./kapcsolat){: .btn}
