@@ -11,7 +11,7 @@ permalink: /
 Üdvözlünk a SZIT kvantumalgoritmusokkal foglalkozó csoportjának a honlapján!
 {: .fs-6 .fw-300 }
 
-![Schrödinger's cat](./schrodingers_purple.png)
+<img alt="Schrödinger's cat" src="./schrodingers_purple.png" width="250px" />
 
 [Első lépések](./bevezeto){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-4 }
 [Kapcsolat](./kapcsolat){: .btn .fs-5 .mb-4 .mb-md-0 }
