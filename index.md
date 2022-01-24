@@ -8,6 +8,8 @@ permalink: /
 # SZIT Quantum
 {: .fs-9 }
 
+![Schrödinger's cat](./schrodingers_purple.png)
+
 Üdvözlünk a SZIT kvantumalgoritmusokkal foglalkozó csoportjának a honlapján!
 {: .fs-6 .fw-300 }
 
