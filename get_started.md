@@ -19,9 +19,15 @@ Nyelv: magyar\
 
 ### Quantum Computing
 
-Előadó: [Gilyén András](http://gilyen.hu/index.html)\
+Előadó: [Dr. Gilyén András](http://gilyen.hu/index.html)\
 Nyelv: angol\
 [Link](http://gilyen.hu/teaching/QC_2021.html)
+
+### Mátrixanalízis és kvantum-információelmélet
+
+Előadó: [Dr. Mosonyi Milán](https://qi.nemzetilabor.hu/hu/szemelyek/mosonyi-milan)\
+Nyelv: magyar\
+[Link](https://www.ttk.bme.hu/BMETE92MM30)
 
 ## Könyvek
 
