@@ -35,4 +35,24 @@ Szerzők: Friedl, Katalin; Kabódi, László
 Dátum: 2015. július 26.  
 [Link](https://doi.org/10.3311/PPee.8214)
 
+## Hidden translation and translating coset in quantum computing
 
+Szerzők: Friedl, Katalin; Ivanyos, Gábor; Magniez, Frédéric; Santha, Miklos; Sen, Pranab  
+Dátum: 2014. január
+[Link](https://arxiv.org/abs/quant-ph/0211091)
+
+## Quantum testers for hidden group properties
+
+Szerzők: Friedl, Katalin; Magniez, Frédéric; Santha, Miklos; Sen, Pranab  
+Dátum: 2009. április 13.  
+[Link](https://arxiv.org/abs/quant-ph/0208184)
+
+## Hidden translation and orbit coset in quantum computing
+
+Szerzők: Friedl, Katalin; Ivanyos, Gábor; Magniez, Frédéric; Santha, Miklos; Sen, Pranab  
+Dátum: 2003. június 9.  
+[Link](https://arxiv.org/abs/quant-ph/0211091)
+
+## Periodic functions and quantum computing
+Szerző: Friedl, Katalin  
+Dátum: 2003.
