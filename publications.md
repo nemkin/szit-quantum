@@ -38,7 +38,7 @@ Dátum: 2015. július 26.
 ## Hidden translation and translating coset in quantum computing
 
 Szerzők: Friedl, Katalin; Ivanyos, Gábor; Magniez, Frédéric; Santha, Miklos; Sen, Pranab  
-Dátum: 2014. január
+Dátum: 2014. január  
 [Link](https://arxiv.org/abs/quant-ph/0211091)
 
 ## Quantum testers for hidden group properties
@@ -55,4 +55,4 @@ Dátum: 2003. június 9.
 
 ## Periodic functions and quantum computing
 Szerző: Friedl, Katalin  
-Dátum: 2003.
+Dátum: 2003.  
