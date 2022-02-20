@@ -23,7 +23,7 @@ Nyelv: angol
 
 ### Computers and intractability: A guide to the theory of NP-completeness
 
-Szerzők: Michael R. Garey, David S. Johnson
+Szerzők: Michael R. Garey, David S. Johnson  
 Nyelv: angol  
 [Link](https://www.amazon.com/Computers-intractability-NP-completeness-mathematical-sciences-dp-0716710447/dp/0716710447/)
 
