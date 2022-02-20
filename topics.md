@@ -17,10 +17,12 @@ A kvantum Turing-gép egyik legszembeötlőbb képessége, hogy egyszerre expone
 
 A kutatás célja a meglevő algoritmikus módszerek vizsgálata, továbbfejlesztése, alkalmazhatósági körük vizsgálata. Például gráfokban a klasszikus párosítási, feszítőfa vagy folyamalgoritmusok kvantumosítása, a gyorsíthatóság mértékének meghatározása.
 
-## QUBO
+## Kvadratikus optimalizálás adiabatikus kvantumszámítógépen
 
-## Kvantumséták
+A QUBO a Quadratic Unconstrained Binary Optimization rövidítése, mely egy a lineáris programozáshoz hasonló, annál általánosabb optimalizációs technika, mivel megengedi a négyzetes tagok jelenlétét a korlátokban és a célfüggvényben is. A QUBO-ban felírt optimalizációs feladatok megoldására alkalmasak az adiabatikus kvantumszámítógépek, melyek fizikai folyamatok segítségével végzik a számítást. A feladat nehézsége, hogy a gyakorlatban nem lehet tetszőleges bonyolultságú egyenletrendszert felírni, erősen korlátos a változók közötti megengedett kapcsolatok száma, azaz hogy hány másik változóval szerepelhetnek szorzatban az egyenletekben. A változók közötti kapcsolatokat ábrázolhatjuk gráfként, ezt a gráfot kell az adiabatikus kvantumszámítógép chimera gráfjába beágyazni, azaz úgy megfeleltetni a csúcsokat a chimera gráf csúcsainak, hogy minden szükséges él létezzen.
 
-A klasszikus gráfbolyongásokat számos területen használják. Segítségükkel modelleznek véletlen folyamatokat (például tőzsdei ármozgásokat, fajok evolúcióját, részecskék mozgását vagy különböző járványok terjedését). Továbbá nehéz algoritmuselméleti feladatok megoldására is alkalmazhatók, hiszen a véletlen bevezetésével gyorsabban adhatnak (közelítő) eredményt és nagyobb méretű bemenetek hatékonyabb feldolgozására is alkalmasak lehetnek. Talán az egyik leghíresebb ilyen algoritmus a Google Page Rank-je, mely az internet hatalmas gráfjából választ rövid idő alatt releváns találatokat.
+## Kvantumséták, kvantumos keresési algoritmusok
 
-Többféle módszer is létezik a klasszikus séták kvantumossá tételére, melyek különböző tulajdonságokkal rendelkeznek és más esetekben alkalmazhatók. Kvantumséták segítségével...
+A klasszikus sétákat (gráfbolyongásokat) számos területen használják. Segítségükkel modelleznek véletlen folyamatokat, továbbá nehéz algoritmuselméleti, keresésként megfogalmazott feladatok megoldására is alkalmazhatók. Ilyenkor a véletlen bevezetésével gyorsabban adhatnak (közelítő) eredményt és nagyobb méretű bemenetek hatékonyabb feldolgozására is alkalmasak lehetnek. Például a "Boolean satisfiability problem", röviden SAT egy közismerten NP-teljes probléma, melyet megfogalmazhatunk keresésként: Elképzelhetjük a változók összes lehetséges értékadását a probléma keresési terének, azaz a gráf csúcsainak. Egy lehetséges lépés, egy él a gráfban ekkor egyetlen változó értékének negálása. ...?
+
+A klasszikus séták kvantumosítására többféle módszer is létezik, melyek vizsgálata ígéretesnek tűnik, hiszen klasszikus társaiknál merőben eltérő tulajdonságokat mutatnak, továbbá a Grover-féle kvantumos keresési algoritmus is felfogható egy speciális sétaként.
