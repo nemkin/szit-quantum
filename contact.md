@@ -9,7 +9,7 @@ permalink: kapcsolat
 
 Az aktuális hírekről, a tervezett szemináriumokról a levelezőlistánkról értesülhettek: [quantum(at)cs.bme.hu](https://www.cs.bme.hu/mailman/listinfo/quantum).
 
-# Kapcsolat
+# Személyes
 
 ## Dr. Friedl Katalin 
 
