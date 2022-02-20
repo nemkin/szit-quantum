@@ -32,7 +32,7 @@ Dátum: 2017.
 ## An idea to improve QuIDD based quantum simulations
 
 Szerzők: Friedl, Katalin; Kabódi, László  
-Dátum: 2015. július 26.
-[DOI](https://doi.org/10.3311/PPee.8214)
+Dátum: 2015. július 26.  
+[Link](https://doi.org/10.3311/PPee.8214)
 
 
