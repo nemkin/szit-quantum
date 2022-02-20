@@ -20,3 +20,7 @@ A kutatás célja a meglevő algoritmikus módszerek vizsgálata, továbbfejlesz
 ## QUBO
 
 ## Kvantumséták
+
+A klasszikus gráfbolyongásokat számos területen használják. Segítségükkel modelleznek véletlen folyamatokat (például tőzsdei ármozgásokat, fajok evolúcióját, részecskék mozgását vagy különböző járványok terjedését). Továbbá nehéz algoritmuselméleti feladatok megoldására is alkalmazhatók, hiszen a véletlen bevezetésével gyorsabban adhatnak (közelítő) eredményt és nagyobb méretű bemenetek hatékonyabb feldolgozására is alkalmasak lehetnek. Talán az egyik leghíresebb ilyen algoritmus a Google Page Rank-je, mely az internet hatalmas gráfjából választ rövid idő alatt releváns találatokat.
+
+Többféle módszer is létezik a klasszikus séták kvantumossá tételére, melyek különböző tulajdonságokkal rendelkeznek és más esetekben alkalmazhatók. Kvantumséták segítségével...
