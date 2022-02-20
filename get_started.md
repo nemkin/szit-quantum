@@ -29,6 +29,19 @@ Előadó: [Dr. Mosonyi Milán](https://qi.nemzetilabor.hu/hu/szemelyek/mosonyi-m
 Nyelv: magyar  
 [Link](https://www.ttk.bme.hu/BMETE92MM30)
 
+## Weboldalak
+
+### Qiskit Textbook
+
+[Link](https://qiskit.org/textbook/)  
+[Link (Új)](https://qiskit.org/textbook-beta/)
+
+<img
+  alt="Qiskit Textbook"
+  src="https://qiskit.org/textbook/assets/images/logo_qiskit_purple_new.svg"
+  width="270px"
+  />
+
 ## Könyvek
 
 ### Quantum Computing
