@@ -9,6 +9,30 @@ permalink: irodalom
 
 ## Könyvek
 
+### Quantum Computing
+
+Szerző: Mika Hirvensalo  
+Nyelv: angol  
+[Link](https://link.springer.com/book/10.1007/978-3-662-09636-9)
+
+<img
+  alt="Mika Hirvensalo: Quantum Computing"
+  src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-662-09636-9"
+  width="270px"
+  />
+
+### Quantum Computing and Communications: An Engineering Approach
+
+Szerzők: Imre Sándor, Balázs Ferenc  
+Nyelv: angol  
+[Link](https://www.wiley.com/en-us/Quantum+Computing+and+Communications%3A+An+Engineering+Approach-p-9780470869024)
+
+<img
+  alt="Imre Sándor, Balázs Ferenc: Quantum Computing and Communications: An Engineering Approach"
+  src="https://media.wiley.com/product_data/coverImage300/2X/04708690/047086902X.jpg"
+  width="270px"
+  />
+
 ### Quantum Computation and Quantum Information
 
 Szerzők: Michael A. Nielsen, Isaac L. Chuang  
