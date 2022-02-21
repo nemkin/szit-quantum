@@ -27,15 +27,6 @@ Nyelv: angol
 
 A dolgozat tartalma a kvantumséták matematikai alapjainak a bevezető szintű leírása, külön figyelmet fordítva az implementációhoz szükséges elemek bemutatására, a valódi kvantumszámítógépen történő megvalósíthatóság feltételeinek részletezése és bizonyítása, továbbá egy nyílt forráskódú, klasszikus és kvantumséták hétköznap számítógépen történő szimulációjára alkalmas Python alapú szoftver bemutatása.
 
-## Függvény- és gráftulajdonságok lokális tesztelése
-
-Szerző: Szabó Dániel  
-Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)  
-Típus: Diplomaterv  
-Dátum: 2021. május 21.  
-Nyelv: magyar  
-[Link](https://diplomaterv.vik.bme.hu/hu/Theses/Fuggveny-es-graftulajdonsagok-lokalis)
-
 ## Kvantuminformatika és gépi tanulás
 
 Szerző: Szabó Dániel  
