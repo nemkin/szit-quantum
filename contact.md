@@ -28,11 +28,9 @@ egyetemi tanársegéd
 
 ### Zalavári Márton
 
-MSc hallgató  
 [zalavarm(at)gmail.com](mailto:zalavarm@gmail.com)
 
 ### Nemkin Viktória
 
-MSc hallgató  
 [nemkin(at)cs.bme.hu](mailto:nemkin@cs.bme.hu)  
 [cs.bme.hu/~nemkin](https://cs.bme.hu/~nemkin)
