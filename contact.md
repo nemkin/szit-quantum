@@ -9,7 +9,11 @@ permalink: kapcsolat
 
 ## Levelezőlista
 
-Az aktuális hírekről, a tervezett szemináriumokról a levelezőlistánkról értesülhettek: [quantum(at)cs.bme.hu](https://www.cs.bme.hu/mailman/listinfo/quantum).
+[quantum(at)cs.bme.hu](https://www.cs.bme.hu/mailman/listinfo/quantum)
+
+Az aktuális hírekről, a tervezett szemináriumokról erről a levelezőlistáról értesülhettek.
+A feliratkozásról érkezni fog egy megerősítő e-mail, amit a GMail szeret a Spam mappába küldeni,
+az ott található linkre kell majd kattintani a véglegesítéshez.
 
 ## Személyes
 
