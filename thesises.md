@@ -7,6 +7,15 @@ permalink: dolgozatok
 
 # Dolgozatok
 
+## Módszerek közel optimális vágások keresésére
+
+Szerző: [Zalavári Márton](./kapcsolat#zalavári-márton)  
+Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)  
+Típus: Diplomaterv  
+Dátum: 2021. december 18.  
+Nyelv: magyar  
+[Link](https://diplomaterv.vik.bme.hu/hu/Theses/Modszerek-kozel-optimalis-vagasok-keresesere)
+
 ## Kvadratikus optimalizálás kvantum alapú számítógéppel
 
 Szerző: [Zalavári Márton](./kapcsolat#zalavári-márton)  
