@@ -42,7 +42,7 @@ ebben részt vesz többek között a BME VIK kara és általa a tanszékünk is.
   alt="Kvantuminformatikai Nemzeti Labor"
   src="https://qi.nemzetilabor.hu/qi.svg"
   width="270px"
-  style="background: linear-gradient(90deg, #63111E, #A52138); margin: 5px;"
+  style="background: linear-gradient(90deg, #63111E, #A52138); padding: 10px;"
   />
 
 ### Qiskit Textbook
