@@ -38,6 +38,13 @@ Nyelv: magyar
 A Kvantuminformatikai Nemzeti Labor összefogja és támogatja a magyarországi kvantummal kapcsolatos kutatásokat,
 ebben részt vesz többek között a BME VIK kara és általa a tanszékünk is.
 
+<img
+  alt="Kvantuminformatikai Nemzeti Labor"
+  src="https://qi.nemzetilabor.hu/qi.svg"
+  width="270px"
+  style="background-color: red;"
+  />
+
 ### Qiskit Textbook
 
 [Link](https://qiskit.org/textbook/)  
