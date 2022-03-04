@@ -15,7 +15,7 @@ Az aktuális hírekről, a tervezett szemináriumokról erről a levelezőlistá
 A feliratkozásról érkezni fog egy megerősítő e-mail, amit a GMail szeret a Spam mappába küldeni,
 az ott található linkre kell majd kattintani a véglegesítéshez.
 
-## Személyes
+## Személyesen
 
 ### Dr. Friedl Katalin 
 
@@ -29,10 +29,6 @@ egyetemi docens
 egyetemi tanársegéd  
 [IB137/a](http://www.szit.bme.hu/rolunk/kapcsolat.html)  
 [kabodil(at)gmail.com](mailto:kabodil@gmail.com)
-
-### Zalavári Márton
-
-[zalavarm(at)gmail.com](mailto:zalavarm@gmail.com)
 
 ### Nemkin Viktória
 
