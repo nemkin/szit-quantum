@@ -7,7 +7,7 @@ permalink: bevezeto
 
 # Bevezető anyagok
 
-Ezen az oldalon azokat az információforrásokat gyűjtöttük, melyek segítségével hallgatóként megismerkedhet a kvantuminformatika és a kvantumalgoritmusok alapjaival.
+Ezen az oldalon azokat az információforrásokat gyűjtöttük, melyek segítségével hallgatóként megismerkedhetsz a kvantuminformatika és a kvantumalgoritmusok alapjaival.
 
 ## Tantárgyak
 
