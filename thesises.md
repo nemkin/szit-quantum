@@ -9,7 +9,7 @@ permalink: dolgozatok
 
 ## Módszerek közel optimális vágások keresésére
 
-Szerző: [Zalavári Márton](./kapcsolat#zalavári-márton)  
+Szerző: Zalavári Márton  
 Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)  
 Típus: Diplomaterv  
 Dátum: 2021. december 18.  
@@ -18,7 +18,7 @@ Nyelv: magyar
 
 ## Kvadratikus optimalizálás kvantum alapú számítógéppel
 
-Szerző: [Zalavári Márton](./kapcsolat#zalavári-márton)  
+Szerző: Zalavári Márton  
 Konzulens: [Dr. Friedl Katalin](./kapcsolat#dr-friedl-katalin)  
 Típus: TDK  
 Dátum: 2021. november 16.  
