@@ -1,0 +1,218 @@
+{"0": {
+    "doc": "Kapcsolat",
+    "title": "Kapcsolat",
+    "content": " ",
+    "url": "https://cs.bme.hu/quantum/kapcsolat",
+    "relUrl": "/kapcsolat"
+  },"1": {
+    "doc": "Kapcsolat",
+    "title": "Levelezőlista",
+    "content": "quantum(at)cs.bme.hu . Az aktuális hírekről, a tervezett szemináriumokról erről a levelezőlistáról értesülhettek. A feliratkozásról érkezni fog egy megerősítő e-mail, amit a GMail szeret a Spam mappába küldeni, az ott található linkre kell majd kattintani a véglegesítéshez. ",
+    "url": "https://cs.bme.hu/quantum/kapcsolat#levelez%C5%91lista",
+    "relUrl": "/kapcsolat#levelezőlista"
+  },"2": {
+    "doc": "Kapcsolat",
+    "title": "Személyesen",
+    "content": "Dr. Friedl Katalin . egyetemi docens IB137/a friedl(at)cs.bme.hu cs.bme.hu/~friedl . Kabódi László . egyetemi tanársegéd IB137/a kabodil(at)gmail.com . Nemkin Viktória . nemkin(at)cs.bme.hu cs.bme.hu/~nemkin . ",
+    "url": "https://cs.bme.hu/quantum/kapcsolat#szem%C3%A9lyesen",
+    "relUrl": "/kapcsolat#személyesen"
+  },"3": {
+    "doc": "Bevezető",
+    "title": "Bevezető anyagok",
+    "content": "Ezen az oldalon azokat az információforrásokat gyűjtöttük, melyek segítségével megismerheted a kvantuminformatika és a kvantumalgoritmusok alapjait. ",
+    "url": "https://cs.bme.hu/quantum/bevezeto#bevezet%C5%91-anyagok",
+    "relUrl": "/bevezeto#bevezető-anyagok"
+  },"4": {
+    "doc": "Bevezető",
+    "title": "Tantárgyak",
+    "content": "Kvantum-informatika és kommunikáció . Előadók: Dr. Imre Sándor, Dr. Bacsárdi László Nyelv: magyar Link . Quantum Computing . Előadó: Dr. Gilyén András Nyelv: angol Link . Mátrixanalízis és kvantum-információelmélet . Előadó: Dr. Mosonyi Milán Nyelv: magyar Link . ",
+    "url": "https://cs.bme.hu/quantum/bevezeto#tant%C3%A1rgyak",
+    "relUrl": "/bevezeto#tantárgyak"
+  },"5": {
+    "doc": "Bevezető",
+    "title": "Weboldalak",
+    "content": "Kvantuminformatikai Nemzeti Labor . Link . A Kvantuminformatikai Nemzeti Labor összefogja és támogatja a magyarországi kvantummal kapcsolatos kutatásokat, ebben részt vesz többek között a BME VIK kara és általa a tanszékünk is. Qiskit Textbook . Link Link (Új) . Warsaw Quantum Computing Group . Weboldal Youtube . ",
+    "url": "https://cs.bme.hu/quantum/bevezeto#weboldalak",
+    "relUrl": "/bevezeto#weboldalak"
+  },"6": {
+    "doc": "Bevezető",
+    "title": "Könyvek",
+    "content": "Quantum Computing . Szerző: Mika Hirvensalo Nyelv: angol Link . Quantum Computing and Communications: An Engineering Approach . Szerzők: Imre Sándor, Balázs Ferenc Nyelv: angol Link . ",
+    "url": "https://cs.bme.hu/quantum/bevezeto#k%C3%B6nyvek",
+    "relUrl": "/bevezeto#könyvek"
+  },"7": {
+    "doc": "Bevezető",
+    "title": "Bevezető",
+    "content": " ",
+    "url": "https://cs.bme.hu/quantum/bevezeto",
+    "relUrl": "/bevezeto"
+  },"8": {
+    "doc": "Kezdőoldal",
+    "title": "QuSZIT",
+    "content": "Üdvözlünk a SZIT kvantumalgoritmusokkal foglalkozó csoportjának a honlapján! . Első lépések Kapcsolat . ",
+    "url": "https://cs.bme.hu/quantum/#quszit",
+    "relUrl": "/#quszit"
+  },"9": {
+    "doc": "Kezdőoldal",
+    "title": "Hallgatóknak",
+    "content": "Szeretettel várunk minden BSc és MSc képzésben részt vevő hallgatót, akár a Műegyetemről, akár bármely más felsőoktatási intézményből kvantumalgoritmusokkal kapcsolatos szakdolgozat, diplomaterv vagy TDK dolgozat készítésére. Érdemes megnézni az aktuális témakiírásainkat. ",
+    "url": "https://cs.bme.hu/quantum/#hallgat%C3%B3knak",
+    "relUrl": "/#hallgatóknak"
+  },"10": {
+    "doc": "Kezdőoldal",
+    "title": "Kezdőoldal",
+    "content": " ",
+    "url": "https://cs.bme.hu/quantum/",
+    "relUrl": "/"
+  },"11": {
+    "doc": "Irodalom",
+    "title": "Irodalom",
+    "content": " ",
+    "url": "https://cs.bme.hu/quantum/irodalom",
+    "relUrl": "/irodalom"
+  },"12": {
+    "doc": "Irodalom",
+    "title": "Könyvek",
+    "content": "Quantum Computing . Szerző: Mika Hirvensalo Nyelv: angol Link . Quantum Computing and Communications: An Engineering Approach . Szerzők: Imre Sándor, Balázs Ferenc Nyelv: angol Link . Quantum Computation and Quantum Information . Szerzők: Michael A. Nielsen, Isaac L. Chuang Nyelv: angol Link . Computers and intractability: A guide to the theory of NP-completeness . Szerzők: Michael R. Garey, David S. Johnson Nyelv: angol Link . ",
+    "url": "https://cs.bme.hu/quantum/irodalom#k%C3%B6nyvek",
+    "relUrl": "/irodalom#könyvek"
+  },"13": {
+    "doc": "Publikációk",
+    "title": "Publikációk",
+    "content": " ",
+    "url": "https://cs.bme.hu/quantum/publikaciok",
+    "relUrl": "/publikaciok"
+  },"14": {
+    "doc": "Publikációk",
+    "title": "Quantum Inspired Adaptive Boosting",
+    "content": "Szerzők: Daróczy, Báint; Friedl, Katalin; Kabódi, László; Pereszlényi, Attila; Szabó, Dániel Dátum: 2021. február 1. Link . ",
+    "url": "https://cs.bme.hu/quantum/publikaciok#quantum-inspired-adaptive-boosting",
+    "relUrl": "/publikaciok#quantum-inspired-adaptive-boosting"
+  },"15": {
+    "doc": "Publikációk",
+    "title": "A weighted QuIDD data structure",
+    "content": "Szerzők: Friedl, Katalin; Kabódi, László Dátum: 2019. ",
+    "url": "https://cs.bme.hu/quantum/publikaciok#a-weighted-quidd-data-structure",
+    "relUrl": "/publikaciok#a-weighted-quidd-data-structure"
+  },"16": {
+    "doc": "Publikációk",
+    "title": "Storing the Quantum Fourier Operator in the QuIDD Data Structure",
+    "content": "Szerzők: Friedl, Katalin; Kabódi, László Dátum: 2017. Link . ",
+    "url": "https://cs.bme.hu/quantum/publikaciok#storing-the-quantum-fourier-operator-in-the-quidd-data-structure",
+    "relUrl": "/publikaciok#storing-the-quantum-fourier-operator-in-the-quidd-data-structure"
+  },"17": {
+    "doc": "Publikációk",
+    "title": "Embedding logical functions into the Chimera graph",
+    "content": "Szerzők: Friedl, Katalin; Kabódi, László Dátum: 2017. ",
+    "url": "https://cs.bme.hu/quantum/publikaciok#embedding-logical-functions-into-the-chimera-graph",
+    "relUrl": "/publikaciok#embedding-logical-functions-into-the-chimera-graph"
+  },"18": {
+    "doc": "Publikációk",
+    "title": "An idea to improve QuIDD based quantum simulations",
+    "content": "Szerzők: Friedl, Katalin; Kabódi, László Dátum: 2015. július 26. Link . ",
+    "url": "https://cs.bme.hu/quantum/publikaciok#an-idea-to-improve-quidd-based-quantum-simulations",
+    "relUrl": "/publikaciok#an-idea-to-improve-quidd-based-quantum-simulations"
+  },"19": {
+    "doc": "Publikációk",
+    "title": "Hidden translation and translating coset in quantum computing",
+    "content": "Szerzők: Friedl, Katalin; Ivanyos, Gábor; Magniez, Frédéric; Santha, Miklos; Sen, Pranab Dátum: 2014. január Link . ",
+    "url": "https://cs.bme.hu/quantum/publikaciok#hidden-translation-and-translating-coset-in-quantum-computing",
+    "relUrl": "/publikaciok#hidden-translation-and-translating-coset-in-quantum-computing"
+  },"20": {
+    "doc": "Publikációk",
+    "title": "Quantum testers for hidden group properties",
+    "content": "Szerzők: Friedl, Katalin; Magniez, Frédéric; Santha, Miklos; Sen, Pranab Dátum: 2009. április 13. Link . ",
+    "url": "https://cs.bme.hu/quantum/publikaciok#quantum-testers-for-hidden-group-properties",
+    "relUrl": "/publikaciok#quantum-testers-for-hidden-group-properties"
+  },"21": {
+    "doc": "Publikációk",
+    "title": "Hidden translation and orbit coset in quantum computing",
+    "content": "Szerzők: Friedl, Katalin; Ivanyos, Gábor; Magniez, Frédéric; Santha, Miklos; Sen, Pranab Dátum: 2003. június 9. Link . ",
+    "url": "https://cs.bme.hu/quantum/publikaciok#hidden-translation-and-orbit-coset-in-quantum-computing",
+    "relUrl": "/publikaciok#hidden-translation-and-orbit-coset-in-quantum-computing"
+  },"22": {
+    "doc": "Publikációk",
+    "title": "Periodic functions and quantum computing",
+    "content": "Szerző: Friedl, Katalin Dátum: 2003. ",
+    "url": "https://cs.bme.hu/quantum/publikaciok#periodic-functions-and-quantum-computing",
+    "relUrl": "/publikaciok#periodic-functions-and-quantum-computing"
+  },"23": {
+    "doc": "Dolgozatok",
+    "title": "Dolgozatok",
+    "content": " ",
+    "url": "https://cs.bme.hu/quantum/dolgozatok",
+    "relUrl": "/dolgozatok"
+  },"24": {
+    "doc": "Dolgozatok",
+    "title": "Módszerek közel optimális vágások keresésére",
+    "content": "Szerző: Zalavári Márton Konzulens: Dr. Friedl Katalin Típus: Diplomaterv Dátum: 2021. december 18. Nyelv: magyar Link . ",
+    "url": "https://cs.bme.hu/quantum/dolgozatok#m%C3%B3dszerek-k%C3%B6zel-optim%C3%A1lis-v%C3%A1g%C3%A1sok-keres%C3%A9s%C3%A9re",
+    "relUrl": "/dolgozatok#módszerek-közel-optimális-vágások-keresésére"
+  },"25": {
+    "doc": "Dolgozatok",
+    "title": "Kvadratikus optimalizálás kvantum alapú számítógéppel",
+    "content": "Szerző: Zalavári Márton Konzulens: Dr. Friedl Katalin Típus: TDK Dátum: 2021. november 16. Nyelv: magyar Link . ",
+    "url": "https://cs.bme.hu/quantum/dolgozatok#kvadratikus-optimaliz%C3%A1l%C3%A1s-kvantum-alap%C3%BA-sz%C3%A1m%C3%ADt%C3%B3g%C3%A9ppel",
+    "relUrl": "/dolgozatok#kvadratikus-optimalizálás-kvantum-alapú-számítógéppel"
+  },"26": {
+    "doc": "Dolgozatok",
+    "title": "Kvantumséták szimulációja klasszikus számítógépen",
+    "content": "Szerző: Nemkin Viktória Konzulens: Dr. Friedl Katalin Típus: TDK Dátum: 2021. november 16. Nyelv: angol Link . A dolgozat tartalma a kvantumséták matematikai alapjainak a bevezető szintű leírása, külön figyelmet fordítva az implementációhoz szükséges elemek bemutatására, a valódi kvantumszámítógépen történő megvalósíthatóság feltételeinek részletezése és bizonyítása, továbbá egy nyílt forráskódú, klasszikus és kvantumséták hétköznap számítógépen történő szimulációjára alkalmas Python alapú szoftver bemutatása. ",
+    "url": "https://cs.bme.hu/quantum/dolgozatok#kvantums%C3%A9t%C3%A1k-szimul%C3%A1ci%C3%B3ja-klasszikus-sz%C3%A1m%C3%ADt%C3%B3g%C3%A9pen",
+    "relUrl": "/dolgozatok#kvantumséták-szimulációja-klasszikus-számítógépen"
+  },"27": {
+    "doc": "Dolgozatok",
+    "title": "Kvantuminformatika és gépi tanulás",
+    "content": "Szerző: Szabó Dániel Konzulens: Dr. Friedl Katalin Típus: Szakdolgozat Dátum: 2018. december 06. Nyelv: magyar Link . ",
+    "url": "https://cs.bme.hu/quantum/dolgozatok#kvantuminformatika-%C3%A9s-g%C3%A9pi-tanul%C3%A1s",
+    "relUrl": "/dolgozatok#kvantuminformatika-és-gépi-tanulás"
+  },"28": {
+    "doc": "Dolgozatok",
+    "title": "Gépi tanulás és kvantuminformatika",
+    "content": "Szerző: Szabó Dániel Konzulens: Dr. Friedl Katalin Típus: TDK Dátum: 2018. november 14. Nyelv: magyar Link . ",
+    "url": "https://cs.bme.hu/quantum/dolgozatok#g%C3%A9pi-tanul%C3%A1s-%C3%A9s-kvantuminformatika",
+    "relUrl": "/dolgozatok#gépi-tanulás-és-kvantuminformatika"
+  },"29": {
+    "doc": "Dolgozatok",
+    "title": "Gráfelméleti algoritmusok beágyazása D-Wave kvantumszámítógépbe",
+    "content": "Szerző: Szabó Dániel Konzulens: Dr. Friedl Katalin Típus: TDK Dátum: 2017. november 16. Nyelv: magyar Link . ",
+    "url": "https://cs.bme.hu/quantum/dolgozatok#gr%C3%A1felm%C3%A9leti-algoritmusok-be%C3%A1gyaz%C3%A1sa-d-wave-kvantumsz%C3%A1m%C3%ADt%C3%B3g%C3%A9pbe",
+    "relUrl": "/dolgozatok#gráfelméleti-algoritmusok-beágyazása-d-wave-kvantumszámítógépbe"
+  },"30": {
+    "doc": "Dolgozatok",
+    "title": "Kvantumalgoritmusok véletlen bolyongással",
+    "content": "Szerző: Kabódi László Konzulens: Dr. Friedl Katalin Típus: Diplomaterv Dátum: 2014. december 29. Nyelv: magyar Link . ",
+    "url": "https://cs.bme.hu/quantum/dolgozatok#kvantumalgoritmusok-v%C3%A9letlen-bolyong%C3%A1ssal",
+    "relUrl": "/dolgozatok#kvantumalgoritmusok-véletlen-bolyongással"
+  },"31": {
+    "doc": "Dolgozatok",
+    "title": "Kvantumáramkör-szimulációs rendszer gyorsításának vizsgálata",
+    "content": "Szerző: Kabódi László Konzulens: Dr. Friedl Katalin Típus: TDK Dátum: 2014. november 11. Nyelv: magyar Link . ",
+    "url": "https://cs.bme.hu/quantum/dolgozatok#kvantum%C3%A1ramk%C3%B6r-szimul%C3%A1ci%C3%B3s-rendszer-gyors%C3%ADt%C3%A1s%C3%A1nak-vizsg%C3%A1lata",
+    "relUrl": "/dolgozatok#kvantumáramkör-szimulációs-rendszer-gyorsításának-vizsgálata"
+  },"32": {
+    "doc": "Témakiírások",
+    "title": "Témakiírások",
+    "content": " ",
+    "url": "https://cs.bme.hu/quantum/temak",
+    "relUrl": "/temak"
+  },"33": {
+    "doc": "Témakiírások",
+    "title": "Kvantumalgoritmusok",
+    "content": "Link . A 70-es évek végén fizikusok vetették fel, hogy mivel a kvantummechanikai jelenségeket nem sikerült számítógéppel hatékonyan szimulálniuk, talán egy kvantumhatásokra is építő géppel gyorsabban lehetne bizonyos problémákat megoldani. Ebből az ötletből született a számítás egy újabb matematikai modellje, a kvantum Turing-gép. A kvantum Turing-gép egyik legszembeötlőbb képessége, hogy egyszerre exponenciálisan sok számítási ágat tud követni, de az a nehézség, hogy a modell (és a fizika) szabályai szerint, ezekből nem egyszerű az eredményt (pl. van-e elfogadó számítási ág) kinyerni. Az új modell a szokásos algoritmikus megoldásoktól eltérő ötleteket, technikákat igényel. Az erejét mutatja, hogy pl. kvantum Turing-géppel egy szám prímtényezői polinom időben megtalálhatók (klasszikus Turing-géppel nem ismert ilyen algoritmus), illetve, hogy n rendezetlen elem közötti keresés Θ(√n) időben megvalósítható. A témakör nagy kérdése, hogy milyen feladatokra lehet a klasszikus megoldásnál lényegesen hatékonyabb kvantumaloritmusokat adni, és melyek azok a feladatok, ahol ez a technika nem segít. A kutatás célja a meglevő algoritmikus módszerek vizsgálata, továbbfejlesztése, alkalmazhatósági körük vizsgálata. Például gráfokban a klasszikus párosítási, feszítőfa vagy folyamalgoritmusok kvantumosítása, a gyorsíthatóság mértékének meghatározása. ",
+    "url": "https://cs.bme.hu/quantum/temak#kvantumalgoritmusok",
+    "relUrl": "/temak#kvantumalgoritmusok"
+  },"34": {
+    "doc": "Témakiírások",
+    "title": "Kvadratikus optimalizálás adiabatikus kvantumszámítógépen",
+    "content": "A QUBO a Quadratic Unconstrained Binary Optimization rövidítése, ami egy a lineáris programozáshoz hasonló, annál általánosabb optimalizációs technika, mivel megengedi a négyzetes tagok jelenlétét is a célfüggvényben. A QUBO-ban felírt optimalizációs feladatok megoldására alkalmasak az adiabatikus kvantumszámítógépek, melyek fizikai folyamatok segítségével végzik a számítást. A feladat nehézsége, hogy a gyakorlatban nem lehet tetszőleges bonyolultságú célfüggvényt felírni, erősen korlátos a változók közötti megengedett kapcsolatok száma, azaz hogy hány másik változóval szerepelhetnek szorzatban. A változók közötti kapcsolatokat ábrázolhatjuk gráfként, ezt a gráfot kell az adiabatikus kvantumszámítógép hardvere által meghatározott másik gráfba beágyazni, azaz úgy elhelyezni a csúcsokat, hogy minden szükséges él létezzen. Sok esetben ez csak úgy megvalósítható, ha magát a célfüggvényt is ügyesen írjuk fel, új változókat és speciális tagokat bevezetve. ",
+    "url": "https://cs.bme.hu/quantum/temak#kvadratikus-optimaliz%C3%A1l%C3%A1s-adiabatikus-kvantumsz%C3%A1m%C3%ADt%C3%B3g%C3%A9pen",
+    "relUrl": "/temak#kvadratikus-optimalizálás-adiabatikus-kvantumszámítógépen"
+  },"35": {
+    "doc": "Témakiírások",
+    "title": "Kvantumséták, kvantumos keresési algoritmusok",
+    "content": "A klasszikus sétákat (gráfbolyongásokat) számos területen használják. Segítségükkel modelleznek véletlen folyamatokat, továbbá nehéz algoritmuselméleti, keresésként megfogalmazott feladatok megoldására is alkalmazhatók. Ilyenkor a véletlen bevezetésével gyorsabban adhatnak (közelítő) eredményt és nagyobb méretű bemenetek hatékonyabb feldolgozására is alkalmasak lehetnek. Például a “Boolean satisfiability problem”, röviden SAT egy közismerten NP-teljes probléma, melyet megfogalmazhatunk keresésként: Elképzelhetjük a változók összes lehetséges értékadását a probléma keresési terének, azaz a gráf csúcsainak. Egy lehetséges lépés, egy él a gráfban ekkor egyetlen változó értékének negálása. Ügyes szabályok alapján lépkedve ebben a gráfban a véletlen próbálkozáshoz képest gyorsabban található közel optimális megoldás és az ilyen jellegű megoldók a gyakorlatban jól tudnak működni. A klasszikus séták kvantumosítására többféle módszer is létezik, melyek vizsgálata ígéretesnek tűnik, hiszen klasszikus társaiktól merőben eltérő tulajdonságokat mutatnak. Ezen felül a Grover-féle kvantumos keresési algoritmus is felfogható egy speciális kvantumsétaként. ",
+    "url": "https://cs.bme.hu/quantum/temak#kvantums%C3%A9t%C3%A1k-kvantumos-keres%C3%A9si-algoritmusok",
+    "relUrl": "/temak#kvantumséták-kvantumos-keresési-algoritmusok"
+  }
+}
