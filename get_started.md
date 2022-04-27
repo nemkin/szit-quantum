@@ -56,6 +56,11 @@ ebben részt vesz többek között a BME VIK kara és általa a tanszékünk is.
   width="270px"
   />
 
+### Warsaw Quantum Computing Group
+
+[Weboldal](https://www.qaif.org/events/warsaw-quantum-computing-group)  
+[Youtube](https://www.youtube.com/channel/UCoQAyPU5KQEpMOMDUN0j3IQ/videos)
+
 ## Könyvek
 
 ### Quantum Computing
